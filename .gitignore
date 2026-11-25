@@ -14,8 +14,5 @@ dist/
 # 初回起動時に入るライブラリ
 vendor/
 
-# MKVToolNix の実行ファイル（各自でインストール）
-mkvmerge.exe
-
 # スクリーンショットなど
 *.png
