@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+build/
+dist/
+*.spec
+
+# ログ・一時ファイル
+*.log
+*.tmp
+
+# 初回起動時に入るライブラリ
+vendor/
+
+# MKVToolNix の実行ファイル（各自でインストール）
+mkvmerge.exe
+
+# スクリーンショットなど
+*.png
